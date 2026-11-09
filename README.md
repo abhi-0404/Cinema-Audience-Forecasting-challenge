@@ -1,5 +1,9 @@
 # Cinema Audience Forecasting Challenge
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abhi-0404/Cinema-Audience-Forecasting-challenge/blob/main/23f1003140-notebook-t32025.ipynb)
+
+Open the full notebook in Google Colab with one click. To re-run it, add the competition's CSV files (listed under Dataset Description) to the Colab session.
+
 A machine learning project to predict cinema audience counts using historical booking and sales data. This is a Kaggle competition solution that combines data engineering, exploratory analysis, and ensemble machine learning techniques to forecast theater-wise audience attendance.
 
 ---
